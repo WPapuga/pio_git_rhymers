@@ -1,6 +1,6 @@
 package edu.kis.vh.nursery;
 //Źle sformatowane linie: 5,12,14,15
-public class HanoiRhymer extends defaultCountingOutRhymer {
+public class HanoiRhymer extends DefaultCountingOutRhymer {
 
 	int totalRejected = 0;
 

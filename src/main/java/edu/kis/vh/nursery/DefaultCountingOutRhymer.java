@@ -1,6 +1,6 @@
 package edu.kis.vh.nursery;
 //ctrl + -> przełącza pomiędzy otwartymi oknami w IDE
-public class defaultCountingOutRhymer {
+public class DefaultCountingOutRhymer {
 
 	private int[] numbers = new int[12];
 
