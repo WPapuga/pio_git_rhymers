@@ -1,0 +1,29 @@
+[33mcommit 7fc689621d5f28cdc291a1855c310fa2f8653470[m[33m ([m[1;36mHEAD -> [m[1;32mformat[m[33m)[m
+Author: 235945 <235945@CARBON.CTI.P.LODZ.PL>
+Date:   Wed Apr 13 12:54:19 2022 +0200
+
+    2. poprawienie formatowania kodu w gałęzi format
+
+[33mcommit 64c281d82e14837dcccd10d718d6d1eff6a81ba5[m[33m ([m[1;32mmaster[m[33m)[m
+Author: unknown <235945@carbon.cti.p.lodz.pl>
+Date:   Wed Apr 13 12:36:57 2022 +0200
+
+    1. dodanie pliku .gitignore
+
+[33mcommit ca7fff2b75d06085d7102a47b88ab2518996b1c4[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: joanna-jojczyk <73722165+joanna-jojczyk@users.noreply.github.com>
+Date:   Mon Dec 6 11:56:11 2021 +0100
+
+    Update README.md
+
+[33mcommit 81cb2e56fa7b143aecf0ff5d2ce53e71fa4b446c[m
+Author: kowallus <kowallus@o2.pl>
+Date:   Tue Nov 12 10:58:39 2019 +0100
+
+    Poprawka README.md
+
+[33mcommit 19ebefe4174c74267bdd020244796fd41b414993[m
+Author: kowallus <kowallus@o2.pl>
+Date:   Tue Nov 12 10:55:42 2019 +0100
+
+    Initial commit
