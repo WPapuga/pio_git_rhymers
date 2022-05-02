@@ -1,5 +1,5 @@
 package edu.kis.vh.nursery;
-
+//14. Wszystkie testy jednostkowe pomyślnie przechodzą
 import org.junit.Assert;
 import org.junit.Test;
 
