@@ -55,6 +55,7 @@ public class IntLinkedList {
 		return last == null;
 	}
 
+	//TODO: needs fixing or needs to be deleted, because method that always returns false is useless
 	public boolean isFull() {
 		return false;
 	}
