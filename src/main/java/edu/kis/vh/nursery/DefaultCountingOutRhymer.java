@@ -51,6 +51,7 @@ public class DefaultCountingOutRhymer {
 			numbers[++total] = in;
 	}
 
+	//TODO: function callCheck could be changed to isEmpty. It will be easier to understand what this function does
 	/**
 	 * this method checks if the numbers array is empty
 	 *
